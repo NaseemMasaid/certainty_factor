@@ -20,11 +20,11 @@ gejala = [
 
 # Mendefinisikan gejala pasien dan nilai-nilainya
 pasien = [
-    {"code": "G01", "name": "Pusing",        "value": 0.5},
-    {"code": "G05", "name": "Batuk",         "value": 0.8},
-    {"code": "G04", "name": "Dehidrasi",     "value": 0.4},
-    {"code": "G02", "name": "Keringat Dingin", "value": 0.3},
-    {"code": "G03", "name": "Menggigil",     "value": 0.2}
+    {"code": "G01", "value": 0.5},
+    {"code": "G05", "value": 0.8},
+    {"code": "G04", "value": 0.4},
+    {"code": "G02", "value": 0.3},
+    {"code": "G03", "value": 0.2}
 ]
 
 # Mendefinisikan fungsi untuk menghitung faktor kepastian suatu penyakit berdasarkan gejala pasien
