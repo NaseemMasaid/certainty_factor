@@ -1,5 +1,5 @@
-NAMA: Naseem Umar Masaid
-NIM: A11.2021.13318
+#NAMA: Naseem Umar Masaid
+#NIM: A11.2021.13318
 # Mendefinisikan daftar penyakit dan gejalanya
 penyakit = [
     {"code": "P01", "name": "A", "Gejala": ["G01", "G03"]},
